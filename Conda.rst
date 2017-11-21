@@ -18,3 +18,7 @@ Conda CheatSheet
 
   # Create environment from file
   conda env create -f environment.yml
+  
+  # Clone environment
+  conda create --name myclone --clone myenv
+
