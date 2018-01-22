@@ -1,2 +1,0 @@
-# CheatSheet
-CheatSheetのまとめ場所
