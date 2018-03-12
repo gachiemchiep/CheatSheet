@@ -1,0 +1,16 @@
+Apache Sparkについて勉強ノート
+====================================
+
+概要
+------
+
+general purpose cluster computing system
+
+参考リンク
+----------
+
+.. _link1: https://www.slideshare.net/rahuldausa/introduction-to-apache-spark-39638645
+
+.. _link2: https://stanford.edu/~rezab/sparkworkshop/slides/holden.pdf
+
+.. _link3: https://www.slideshare.net/AGrishchenko/apache-spark-architecture
