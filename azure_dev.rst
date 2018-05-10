@@ -4,7 +4,7 @@ Azureを用いて、開発するメモ
 1. Azureで開発Machineを立ち上がる
 -----------------------------------
 
-Create Ubuntu machine, then setup network rules, etc
+Create Ubuntu machine, then setup network rules, etc (VNCはポート5901を利用するので、必ずすのポート開く)
 
 Add data disk : https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk
 
