@@ -22,8 +22,14 @@ This papaer : use image restoration technique to improve accuracy of Barcode dec
 [Reading barcodes with
 neural networks](https://pdfs.semanticscholar.org/380a/e14aa6f260ee85cc062da6631e84d6ee68cd.pdf)
 
+EAN-13 barcode（13桁だけ）だけ対応しています。
+
 流れの概要
 
 1. PyBarを用いて、Barcode画像生成する
 2. 生成された画像をAugmenting techniqueで学習データ生成
-.....
+3. CNNの出力は　１３x１０サイズのベクトルです。各ベクトル（size: 10）で
+　　一つの桁の数値を読み出します。
+  
+ Poorly written thesis
+
