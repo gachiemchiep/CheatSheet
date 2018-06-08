@@ -19,5 +19,11 @@ This papaer : use image restoration technique to improve accuracy of Barcode dec
 2.1 Identification
 2.2 Decoding
 
+[Reading barcodes with
+neural networks](https://pdfs.semanticscholar.org/380a/e14aa6f260ee85cc062da6631e84d6ee68cd.pdf)
 
+流れの概要
 
+1. PyBarを用いて、Barcode画像生成する
+2. 生成された画像をAugmenting techniqueで学習データ生成
+.....
